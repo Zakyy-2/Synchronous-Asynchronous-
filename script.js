@@ -4,8 +4,8 @@ console.log("Proses 1");
 console.log("Proses 2");
 console.log("Proses 3");
 
-// === CONTOH ASYNCHRONOUS (POIN 3) ===
-console.log("\n--- 2. ASYNCHRONOUS ---");
+// === CONTOH ASYNCHRONOUS ===
+console.log("--- 2. ASYNCHRONOUS ---");
 
 // Cara 1: Callback
 function hitungCallback(callback) {
